@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "id":1,
+            "nome":"Diogo Neves",
+            "email":"diogomaster2016@gmail.com",
+            "score":50
+        },
+    
+        {
+            "id":2,
+            "nome":"diogao lendario foda dick master",
+            "email":"diogodickmaster@gmail.com",
+            "score":500
+        }
+    ]
+}
